@@ -1,8 +1,7 @@
 # Use-the-git
 ## git
 
-* 将项目clone下来之后，用cnpm install下载依赖，总是安装不全
-> 使用 yarn install 指令安装依赖
+* 将项目clone下来之后，使用 yarn install 指令安装依赖
 
 * clone之后使用指令 **git branch -a** 查看分支
 ```
@@ -11,7 +10,10 @@
       remotes/origin/develop
       remotes/origin/master
 ```
-* git checkout <分支名> 切换分支
+* 切换分支
+```
+$ git checkout <分支名>
+```
 
 * 关联主分支
 ```
