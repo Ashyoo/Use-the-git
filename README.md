@@ -1,6 +1,13 @@
 # Use-the-git
 ## git
+* 查看修改用户名和邮箱
+```
+git config user.name ===> 查看名称
+git config user.email ===> 查看邮箱
 
+git config --global user.name "xxx"  ===>  修改名称
+git config --global user.email "xxx"  ===>  修改邮箱
+```
 * 将项目clone下来之后，使用 yarn install 指令安装依赖
 
 * clone之后使用指令 **git branch -a** 查看分支
