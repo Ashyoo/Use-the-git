@@ -12,7 +12,7 @@ git config --global user.email "xxx"  ===>  修改邮箱
 
 * clone之后使用指令 **git branch -a** 查看分支
 ```
-    * master // 当前分支（master：主分支）
+      master // 当前分支（master：主分支）
       remotes/origin/HEAD -> origin/master
       remotes/origin/develop
       remotes/origin/master
