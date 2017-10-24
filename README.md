@@ -52,6 +52,6 @@ $ git remote add (分支名) (url)
 7. perf -- 优化系统性能(performance)
 > 若提交的改动是针对系统性能的优化的，则提交类型填写为'perf'，E.g: perf: improve the performance of filtering the required bill list
 
-8. chore -- 针对构建过程或者辅助工具的变更
+8. chore -- 针对构建过程或者辅助工具的变更 
 > chore:日常零碎变更，这里主要是针对构建过程、辅助工具、抑或是其他无关主题代码的变更。E.g: chore: add css preprocessor trees
 
