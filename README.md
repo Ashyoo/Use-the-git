@@ -18,6 +18,7 @@ git config --global user.email "xxx"  ===>  修改邮箱
       remotes/origin/master
 ```
 * 切换分支
+
 ```
 $ git checkout <分支名>
 ```
