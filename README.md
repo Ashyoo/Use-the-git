@@ -8,6 +8,12 @@ git config user.email ===> 查看邮箱
 git config --global user.name "xxx"  ===>  修改名称
 git config --global user.email "xxx"  ===>  修改邮箱
 ```
+
+* 删除文件或文件夹
+```
+git rm (文件名)
+```
+
 * 将项目clone下来之后，使用 yarn install 指令安装依赖
 
 * clone之后使用指令 **git branch -a** 查看分支
