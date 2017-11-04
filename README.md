@@ -1,6 +1,8 @@
 # Use-the-git
 ## git
+
 * 查看修改用户名和邮箱
+
 ```
 git config user.name ===> 查看名称
 git config user.email ===> 查看邮箱
@@ -10,6 +12,7 @@ git config --global user.email "xxx"  ===>  修改邮箱
 ```
 
 * 删除文件或文件夹
+
 ```
 git rm (文件名)
 ```
