@@ -35,6 +35,7 @@ $ git checkout <分支名>
 ```
 
 * 关联主分支
+
 ```
 $ git remote add (分支名) (url)
 ```
