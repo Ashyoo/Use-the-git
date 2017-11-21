@@ -43,6 +43,7 @@ $ git remote add (分支名) (url)
 ## git 提交注释编写规范
 
 * Commit Message 提交类型
+
 > Commit Message 第一行的提交类型必须是以下类型之一:<br/>：feat, fix,docs,style,refactor,perf,test,chore。
 
 1. feat -- 实现新功能(feature)
