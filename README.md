@@ -18,7 +18,7 @@ git config --global user.email "xxx"  ===>  修改邮箱
 git rm (文件名)
 ```
 
-* 将项目clone下来之后，使用 yarn install 指令安装依赖
+* 将项目clone下来之后，使用 npm install 或 yarn install 指令安装依赖
 
 * clone之后使用指令 **git branch -a** 查看分支
 
