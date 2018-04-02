@@ -51,7 +51,7 @@ $ git remote add (分支名) (url)
 > 当新需求或新功能的实现完成并测试通过时，开发人员需提交该部分变更的代码，并且按照上述的Commit Message格式编写提交注解。E.g: feat: add listView components to bill search page
 
 2. fix -- 解决bug
-> 当Bug修复完成并确认已经彻底解决时，开发人员需提交该部分变更的代码，并且按照上述的Commit Message格式编写提交注解。 Example 1: fix: when submit button has ever been triggered, do not trigger again.(#1871) Example 2: fix(pp): fix the NullPointException when updating bill.(#1891)
+> 当Bug修复完成并确认已经彻底解决时，开发人员需提交该部分变更的代码，并且按照上述的Commit Message格式编写提交注解。 Example 1: fix: when submit button has ever been triggered, do not trigger again.(#1871) Example 2: fix(pp): fix the NullPointException when updating bill.
 
 3. docs -- 只针对文档(documention)变更
 > 如果提交的改动只是针对文档的变更，则提交类型可以设为docs，E.g: docs: add the document of Git Commit Message Guideline
