@@ -32,7 +32,6 @@ git rm (文件名)
 
 * 切换分支
 
-
 ```
 $ git checkout <分支名>
 ```
@@ -41,6 +40,12 @@ $ git checkout <分支名>
 
 ```
 $ git remote add (分支名) (url)
+```
+
+* 查看远程仓库的信息
+
+```
+git remote -v
 ```
 
 * 删除 remote 分支
